@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneCloneTest1.CSharp.Plugins", "HearthstoneCloneTest1.CSharp.Plugins.csproj", "{ED53D3C1-E6AC-F974-B425-4DD313C0E930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneCloneTest1.CSharp.Editor", "HearthstoneCloneTest1.CSharp.Editor.csproj", "{AE8FF7AA-8B59-3CC6-B09E-B24272922DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED53D3C1-E6AC-F974-B425-4DD313C0E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED53D3C1-E6AC-F974-B425-4DD313C0E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED53D3C1-E6AC-F974-B425-4DD313C0E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED53D3C1-E6AC-F974-B425-4DD313C0E930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8FF7AA-8B59-3CC6-B09E-B24272922DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8FF7AA-8B59-3CC6-B09E-B24272922DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8FF7AA-8B59-3CC6-B09E-B24272922DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8FF7AA-8B59-3CC6-B09E-B24272922DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
